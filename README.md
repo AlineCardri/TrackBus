@@ -1,4 +1,4 @@
-# TrackBus  [link to UFABC](http://www.ufabc.edu.br)
+# TrackBus[UFABC](http://www.ufabc.edu.br)
 An awesome app to track our beloved University's bus :oncoming_bus:
 
 This app is for mobile devices with **Android**. 
