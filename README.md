@@ -1,22 +1,10 @@
-# TrackBus
-An awesome app to track our beloved University's bus  :oncoming_bus:
+# TrackBus  [link to UFABC](http://www.ufabc.edu.br)
+An awesome app to track our beloved University's bus :oncoming_bus:
 
-/play trombone
+This app is for mobile devices with **Android**. 
 
-
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+## What it does?
+It receives the gps positions from colaborative-students in order to track our University's bus. 
 
 1. Item 1
 2. Item 2
@@ -24,21 +12,15 @@ _You **can** combine them_
    * Item 3a
    * Item 3b
    * 
-   
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
-
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+As Bevilacqua said:
+> absque sudore et labore
+> nullum opus perfectum est
 
 
 
 I think you should use an
-`<addr>` element here instead.
+`<informante>` element here instead.
 
 
 
@@ -51,8 +33,6 @@ function fancyAlert(arg) {
 ```
 
 
-
-
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
@@ -62,30 +42,14 @@ function fancyAlert(arg) {
     
     
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] server
+- [x] gps-location
+- [ ] altogether
 
 
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-
-
-
-
-
-16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
-
-
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
-
-
-~~this~~
 
 
